@@ -16,7 +16,7 @@ function LoginUi() {
 
          </div>
          <div className="downn">
-           <div>
+           <div className="email-div" >
              <img src={emaill} alt="email" className="email"/>
              <input type="text" placeholder="Email" className="name"/>
            </div>
