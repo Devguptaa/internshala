@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/internshala/static/css/main.4312e091.chunk.css",
+    "main.js": "/internshala/static/js/main.85cc15ad.chunk.js",
+    "main.js.map": "/internshala/static/js/main.85cc15ad.chunk.js.map",
+    "runtime-main.js": "/internshala/static/js/runtime-main.134cddfa.js",
+    "runtime-main.js.map": "/internshala/static/js/runtime-main.134cddfa.js.map",
+    "static/js/2.d4de23b5.chunk.js": "/internshala/static/js/2.d4de23b5.chunk.js",
+    "static/js/2.d4de23b5.chunk.js.map": "/internshala/static/js/2.d4de23b5.chunk.js.map",
+    "index.html": "/internshala/index.html",
+    "static/css/main.4312e091.chunk.css.map": "/internshala/static/css/main.4312e091.chunk.css.map",
+    "static/js/2.d4de23b5.chunk.js.LICENSE.txt": "/internshala/static/js/2.d4de23b5.chunk.js.LICENSE.txt",
+    "static/media/a.7df79546.png": "/internshala/static/media/a.7df79546.png",
+    "static/media/emaill.b86caee6.jpg": "/internshala/static/media/emaill.b86caee6.jpg",
+    "static/media/passw.5a365fd2.jpg": "/internshala/static/media/passw.5a365fd2.jpg",
+    "static/media/LoginUi.css": "/internshala/static/media/surprised-girl-pink-culottes-posing-with-trolley-full-multi-colored-packages-with-new-clothes.220d11f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.134cddfa.js",
+    "static/js/2.d4de23b5.chunk.js",
+    "static/css/main.4312e091.chunk.css",
+    "static/js/main.85cc15ad.chunk.js"
+  ]
+}
